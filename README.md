@@ -23,11 +23,7 @@
 
 ## 🔹 Demo
 You can view the live project here:  
-[GitHub Pages Link]  
+https://IshaWorks.github.io/Bella-Vista/ 
 
 ---
 
-## 🔹 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bella-vista.git
